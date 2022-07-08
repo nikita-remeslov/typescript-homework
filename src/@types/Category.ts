@@ -1,7 +1,8 @@
 enum Category {
     Popular = 'popular',
-    TopRated = 'top_rated',
     Upcoming = 'upcoming',
+    Toprated = 'top_rated',
+   
 }
 
 export { Category };
